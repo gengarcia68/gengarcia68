@@ -32,5 +32,5 @@ I am a Computer Science student and certified Python developer with a deep passi
 
 ### 📫 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/genaro-garcia-a258a1134/) (Add your link here)
+* [LinkedIn](https://www.linkedin.com/in/genaro-garcia-a258a1134/) 
 * [Email](gengarcia68@gmail.com)
